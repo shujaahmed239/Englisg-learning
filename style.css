@@ -36,7 +36,7 @@ body {
   width: 25%;
   background: #0b397a;
   padding: 20px;
-  border-radius: 5px;
+  border-radius: 15px;
   display: flex;
   flex-direction: column;
   gap: 15px;
